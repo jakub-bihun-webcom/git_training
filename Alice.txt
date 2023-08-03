@@ -9,5 +9,4 @@ Lets see what happens if we play with the tail
 A SECOND TIME
 Or not actually it aint that fun
 
-cuz stashes are fun
-lets try it a fourth time with stashes this time
+Lets try it a fifth time, this time using pull -rebase
