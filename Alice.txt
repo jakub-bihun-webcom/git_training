@@ -9,8 +9,7 @@ Lets see what happens if we play with the tail
 A SECOND TIME
 Or not actually it aint that fun
 
-<<<<<<< Updated upstream
+
 Lets try it a fifth time, this time using pull -rebase
-=======
+
 cuz apparently it is way better and reccommended to do
->>>>>>> Stashed changes
