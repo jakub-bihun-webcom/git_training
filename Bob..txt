@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Heyo im Bob i like turtles. Like, a lot!
+=======
+Heyo im Bobby i like turtles. Like, a lot!
+I like to see civilisations thrive!
+>>>>>>> 5b4f466 (A slight name change)
