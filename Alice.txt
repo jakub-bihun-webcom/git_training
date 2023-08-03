@@ -9,4 +9,8 @@ Lets see what happens if we play with the tail
 A SECOND TIME
 Or not actually it aint that fun
 
+<<<<<<< HEAD
 Lets try it a third time since i think i gt it now
+=======
+And this should couse a problemo
+>>>>>>> 883e1652e73a0575f627ba32dd70aeb9ee64d354
