@@ -2,11 +2,9 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I have seen aoens pass and civilisations crumble.
 Pudding is nice tho. Rice pudding is my favorite
 
-<<<<<<< HEAD
 I cant see red to save me digital life
-=======
 Tho i like it blood red
->>>>>>> fbed35e2c8c59e6eebd99e72ad2583f7849f9666
 
 Lets see what happens if we play with the tail
 A SECOND TIME
+Or not actually it aint that fun
